@@ -47,7 +47,7 @@ $(document).ready(function(){
     // = Вешаем событие прокрутки к нужному месту
     	//	 на все ссылки якорь которых начинается на #
     	$('a[href^="#"]').bind('click.smoothscroll',function () {
-    		
+            
     
     		var target = this.hash,
     		$target = $(target);
@@ -60,4 +60,14 @@ $(document).ready(function(){
     	});
     
     });
+
+
+$('.menu_item a').click(function(){
+    $('body').removeClass('open_main_menu')
+    $('body').removeClass('flow')
+    
+})
+// $('.gamb').click(function(){
+//     $('body').addClass('open_main_menu, .flow')
+// })
 
