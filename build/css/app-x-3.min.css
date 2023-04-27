@@ -204,7 +204,7 @@ body.ukrlang_active .rus_text{
     width: 100%;
   }
   .popUp_content p{
-    font-size: 7rem;
+    font-size: 11px !important;
   }
   .popUp_content h1{
     font-size: 20rem;
