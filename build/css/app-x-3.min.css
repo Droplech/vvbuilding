@@ -5813,6 +5813,7 @@ input.error {
     left: 0;
     margin: auto;
     width: 130rem;
+    text-align: center;
   }
   
   .header_logo img {
