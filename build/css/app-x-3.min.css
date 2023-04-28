@@ -2490,6 +2490,13 @@ a .arrow_right:after {
 .seotext{
   width: 70%;
 }
+
+@media screen and (max-width: 700px) {
+  .seotext{
+    width: 100%;
+  }
+}
+
 .seotext p {
   margin: 20px 0;
   font-size: 16px;
