@@ -20,7 +20,18 @@ section {
 body {
   line-height: 1.2;
   position: relative;
- 
+}
+.formName_tg{
+  font-size: 15px;
+  font-weight: 600;
+  line-height: 32px;
+}
+.formImg_tg{
+  width: 60px;
+  margin: 0 auto;
+}
+.formImg_tg img{
+  width: 100%;
 }
 
 .body_bg_img{
@@ -6101,6 +6112,9 @@ input.error {
   .wrap-seotext_block .h2 {
     font-size: 20px;
     text-transform: none;
+    text-align: center;
+    width: 60%;
+    margin: 0 auto;
   }
   
   .wrap.wrap-reviews_block {
