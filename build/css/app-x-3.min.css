@@ -4827,8 +4827,11 @@ input.error {
   .header_top .row {
     justify-content: space-between;
     padding: 0 15rem;
+    align-items: center;
   }
-  
+  .wrap-typesWork_block .advantages_items .row{
+    justify-content: center;
+  }
   .wrap-author_firstblock .col-xl-3.col-12 {
     padding: 30rem;
     background-color: rgba(255, 255, 255, 0.8);

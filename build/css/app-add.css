@@ -12,6 +12,12 @@
     margin-left: 100px;
 }
 
+@media screen and (max-width: 1200px) {
+    .header_lang{
+        margin-left: 0;
+    }
+}
+
 .lang_select {
     border: 2px solid #F1F1F1;
     box-sizing: border-box;
