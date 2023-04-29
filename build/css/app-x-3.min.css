@@ -6599,6 +6599,9 @@ input.error {
   .flex_center-center{
     height: auto;
   }
+  .swiper-slide{
+    height: 600px !important;
+  }
 }
 
 /**
