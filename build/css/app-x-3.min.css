@@ -215,12 +215,13 @@ body.ukrlang_active .rus_text{
 }
 .popUp_content_imgList{
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
   flex-wrap: wrap; 
 }
 .popUp_content_imgList .imgList_item{
-  width: 159px;
-  height: 159px;
+  width: 190px;
+  height: 190px;
+  padding: 10px 10px;
 }
 .popUp_content_imgList .imgList_item img{
   height: 100%;
@@ -2206,7 +2207,7 @@ a .arrow_right:after {
 .wrap-portfolio_block .gallery-top .control {
   top: 50rem;
   right: 200rem;
-  /* background-color: #FFFFFF; */
+  background-color: #FFFFFF;
 }
 
 .wrap-portfolio_block .gallery-top .swiper-pagination {

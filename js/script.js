@@ -67,6 +67,12 @@ $('.menu_item a').click(function(){
     $('body').removeClass('flow')
     
 })
+
+
+
+
+
+
 // $('.gamb').click(function(){
 //     $('body').addClass('open_main_menu, .flow')
 // })

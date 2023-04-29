@@ -73,8 +73,9 @@
 }
 /*  */
 
-
-
+.swiper-slide .swiper-slide-prev{
+    opacity: 0 !important;
+}
 
 
 
